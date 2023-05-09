@@ -1,1 +1,2 @@
- "'#!/bin/bash'" && echo "'echo "Tekouin"'"[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[
+#!/bin/bash
+echo "Tekouin"
